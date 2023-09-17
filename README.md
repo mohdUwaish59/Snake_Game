@@ -22,8 +22,10 @@ Clone this repository or download the ZIP file.
 
 Navigate to the project directory.
 -  cd Snake_Game
+-  
 Run the game.py script.
 -  python game.py
+  
 Use the arrow keys (Up, Down, Left, Right) to control the snake.
 Eat the red food to grow your snake and increase your score.
 Avoid running into the boundaries of the game area or colliding with the snake itself.
