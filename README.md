@@ -21,8 +21,8 @@ Clone this repository or download the ZIP file.
 -  git clone https://github.com/yourusername/snake-game.git
 
 Navigate to the project directory.
--  cd Snake_Game
--  
+-  cd Snake_Game  
+
 Run the game.py script.
 -  python game.py
   
