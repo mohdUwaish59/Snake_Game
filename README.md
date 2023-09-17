@@ -2,7 +2,7 @@
 
 A classic Snake game implemented in Python using the Pygame library.
 
-![Gameplay Screenshot](screenshot.png)
+![Gameplay Screenshot](Game_SS.png)
 
 ## About
 
