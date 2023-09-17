@@ -18,7 +18,7 @@ pip install pygame
 
 ## How to Play
 Clone this repository or download the ZIP file.
--  git clone https://github.com/yourusername/snake-game.git
+-  git clone https://github.com/yourusername/Snake_Game.git
 
 Navigate to the project directory.
 -  cd Snake_Game  
