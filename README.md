@@ -26,10 +26,10 @@ Navigate to the project directory.
 Run the game.py script.
 -  python game.py
   
-Use the arrow keys (Up, Down, Left, Right) to control the snake.
-Eat the red food to grow your snake and increase your score.
-Avoid running into the boundaries of the game area or colliding with the snake itself.
-Try to achieve the highest score possible!
+Use the arrow keys (Up, Down, Left, Right) to control the snake.  
+Eat the red food to grow your snake and increase your score.  
+Avoid running into the boundaries of the game area or colliding with the snake itself.  
+Try to achieve the highest score possible!  
 
 ## Features
 Classic Snake gameplay.
